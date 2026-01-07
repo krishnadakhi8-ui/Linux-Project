@@ -126,3 +126,13 @@ Enter your lastname
 
 DevOps is the process developing, building, deploying and testing on the same day, that can improve co-ordination between all the teams. We use multiple DevOps tools to acheive this. Configuration management, CICD, etc.
 
+Screenshot about git basics 
+like executing in git bash steps 
+
+
+![alt text](images/basics1.png)
+
+
+one more 
+
+![alt text](images/basics2.png)
