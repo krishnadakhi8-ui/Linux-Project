@@ -1,0 +1,15 @@
+Created a folder in local computer 
+Enter into the fold via Git bash here 
+git init then enter 
+git branch -m main then enter it will go to main branch 
+Go to visual studio created a readme.md file in the same folder 
+
+git remote add origin <<repo url>>  
+
+then 
+
+
+
+ git add . ; git commit -m "SDLC"  ; git push origin main
+
+ 
